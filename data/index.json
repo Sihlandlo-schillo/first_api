@@ -1,0 +1,77 @@
+{
+    "aboutMe":"My name is Sihlandlo Makhumsha and I am student at Life  Choices",
+    "projects":[
+        {
+            "name": "A mere Calculater",
+            "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
+            "vercel": "https://new-calc-neon.vercel.app/",
+            "description": "Projects",
+            "image": "URL"
+         
+        },
+        {
+            "name": "A mere Calculater",
+            "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
+            "vercel": "https://new-calc-neon.vercel.app/",
+            "description": "Projects",
+            "image": "URL"
+         
+        },
+        {
+            "name": "A mere Calculater",
+            "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
+            "vercel": "https://new-calc-neon.vercel.app/",
+            "description": "Projects",
+            "image": "URL"
+         
+        },
+        {
+            "name": "A mere Calculater",
+            "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
+            "vercel": "https://new-calc-neon.vercel.app/",
+            "description": "Projects",
+            "image": "URL"
+         
+        },
+        {
+            "name": "A mere Calculater",
+            "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
+            "vercel": "https://new-calc-neon.vercel.app/",
+            "description": "Projects",
+            "image": "URL"
+         
+        }
+    ],
+    "education":[
+        {
+            "description": "Short course",
+            "Duration": "05 April 2024 - 20 Sept 2024",
+            "Institution": "Life Choices",
+            "lecturer":[
+                {
+                    "name":"Joel Mukunya",
+                    "contact": "0725047852"
+                }
+            ]
+        },
+        {
+            "description": "High School",
+            "Duration": "15 Jan 2017 - 26 November 2019",
+            "Institution": "Pakamani SSS"
+        },
+        {
+            "description": "Higher Education",
+            "Duration": "03 Feb 2020 - December 2022",
+            "Institution": "UWC"
+        }
+    ],
+    "skills":["HTML", "CSS","JavaScript","VueJs","Bootstrap"],
+    "testimonial":[
+        {
+            "name": "Matthew Brown",
+            "position": "lecturer",
+            "text": "A very good student this one",
+            "image":"URL"
+        }
+    ]
+}
