@@ -1,44 +1,44 @@
 {
-    "aboutMe":"My name is Sihlandlo Makhumsha and I am student at Life  Choices",
+    "aboutMe":"My name is Sihlandlo Makhumsha and I am a student at Life  Choices Coding Academy.  I was born in Cape Town, 4 years later moved to stay in the  rurals of the Eastern Cape with my grandmother who played a significant role in my life. I started my grade R there in 2007 then went to finish matric in 2019 then somehow after highschool I came back to the Western Cape.",
     "projects":[
         {
-            "name": "A mere Calculater",
+            "name": "Calculator",
             "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
             "vercel": "https://new-calc-neon.vercel.app/",
-            "description": "Projects",
-            "image": "URL"
+            "description": "Instructed to create a calculator to showcase JavaScript  know-how.",
+            "image": ""
          
         },
         {
-            "name": "A mere Calculater",
-            "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
-            "vercel": "https://new-calc-neon.vercel.app/",
-            "description": "Projects",
-            "image": "URL"
+            "name": "A keyboard layout",
+            "github": "https://github.com/Sihlandlo-schillo/KeyBoard.git",
+            "vercel": "https://key-board-wheat.vercel.app/",
+            "description": "Replicating a Windows keyboard layout",
+            "image": ""
          
         },
         {
-            "name": "A mere Calculater",
-            "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
-            "vercel": "https://new-calc-neon.vercel.app/",
-            "description": "Projects",
-            "image": "URL"
+            "name": "First Portfolio Project",
+            "github": "https://github.com/Sihlandlo-schillo/Portfolio.git",
+            "vercel": "https://portfolio-two-delta-37.vercel.app/",
+            "description": "Bootstrap Project",
+            "image": ""
          
         },
         {
-            "name": "A mere Calculater",
-            "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
-            "vercel": "https://new-calc-neon.vercel.app/",
-            "description": "Projects",
-            "image": "URL"
+            "name": "Swegga Fashion Website",
+            "github": "https://github.com/Sihlandlo-schillo/SWEGGA.git",
+            "vercel": "https://swegga-gilt.vercel.app/",
+            "description": "Replicate a Swegga fashion store using JavaScript",
+            "image": ""
          
         },
         {
-            "name": "A mere Calculater",
-            "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
-            "vercel": "https://new-calc-neon.vercel.app/",
-            "description": "Projects",
-            "image": "URL"
+            "name": "Temperature Converter",
+            "github": "https://github.com/Sihlandlo-schillo/TempConv.git",
+            "vercel": "https://temp-conv.vercel.app/",
+            "description": "Using JavaScript. We were instructed to do the temperature converter",
+            "image": ""
          
         }
     ],
@@ -49,8 +49,9 @@
             "Institution": "Life Choices",
             "lecturer":[
                 {
-                    "name":"Joel Mukunya",
-                    "contact": "0725047852"
+                    "name":"Matthew Brown",
+                    "contact": "0725047852",
+                    "email": "matthewbrown@lifechoices.co.za"
                 }
             ]
         },
@@ -60,24 +61,55 @@
             "Institution": "Pakamani SSS"
         },
         {
-            "description": "Higher Education",
-            "Duration": "03 Feb 2020 - December 2022",
-            "Institution": "UWC"
+            "description": "Junior School",
+            "Duration": "Jan 2007 - December 2016",
+            "Institution": "Magopeni JSS"
         }
     ],
     "skills":["HTML", "CSS","JavaScript","VueJs","Bootstrap"],
-    "testimonial":[
+    "testimonials":[
         {
             "name": "Matthew Brown",
             "position": "lecturer",
             "text": "A very good student this one",
-            "image":"URL"
+            "image":""
+        },
+        {
+            "name": "Gwiba Mabandla",
+            "position": "Student",
+            "text": "A very good student this one",
+            "image":""
+        },
+        {
+            "name": "Ntando Mabuto",
+            "position": "Student",
+            "text": "A very good student this one",
+            "image":""
+        },
+        {
+            "name": "Yonela Mangele",
+            "position": "Student",
+            "text": "A very good student this one",
+            "image":""
+        },
+        {
+            "name": "Tyra Parring",
+            "position": "Student",
+            "text": "A very good student this one",
+            "image":""
+        },
+        {
+            "name": "Siphokuhle Nyana",
+            "position": "Student",
+            "text": "A very good student this one",
+            "image":""
         }
     ],
         "contacts":
             {
                 "email":"sihlandlom@gmail.com",
-                "Phone":"0725047852"
+                "Phone":"0725047852",
+                "location": "Khayelitsha, Cape Town"
             }
     
 }
