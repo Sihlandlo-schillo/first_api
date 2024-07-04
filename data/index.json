@@ -6,15 +6,15 @@
             "github": "https://github.com/Sihlandlo-schillo/NewCalc.git",
             "vercel": "https://new-calc-neon.vercel.app/",
             "description": "Instructed to create a calculator to showcase JavaScript  know-how.",
-            "image": ""
+            "image": "https://sihlandlo-schillo.github.io/images/images2/CalcPic.png"
          
         },
         {
-            "name": "A keyboard layout",
-            "github": "https://github.com/Sihlandlo-schillo/KeyBoard.git",
-            "vercel": "https://key-board-wheat.vercel.app/",
-            "description": "Replicating a Windows keyboard layout",
-            "image": ""
+            "name": "A Website layout",
+            "github": "https://github.com/Sihlandlo-schillo/LayoutReplica.git",
+            "vercel": "https://layout-replica.vercel.app/",
+            "description": "Instructed to created a Website layout and style to our will",
+            "image": "https://sihlandlo-schillo.github.io/images/images2/LayOutReplica.png"
          
         },
         {
@@ -22,7 +22,7 @@
             "github": "https://github.com/Sihlandlo-schillo/Portfolio.git",
             "vercel": "https://portfolio-two-delta-37.vercel.app/",
             "description": "Bootstrap Project",
-            "image": ""
+            "image": "https://sihlandlo-schillo.github.io/images/images2/PortfolioPic.png"
          
         },
         {
@@ -30,7 +30,7 @@
             "github": "https://github.com/Sihlandlo-schillo/SWEGGA.git",
             "vercel": "https://swegga-gilt.vercel.app/",
             "description": "Replicate a Swegga fashion store using JavaScript",
-            "image": ""
+            "image": "https://sihlandlo-schillo.github.io/images/images2/SweggaListicsPic.png"
          
         },
         {
@@ -38,7 +38,15 @@
             "github": "https://github.com/Sihlandlo-schillo/TempConv.git",
             "vercel": "https://temp-conv.vercel.app/",
             "description": "Using JavaScript. We were instructed to do the temperature converter",
-            "image": ""
+            "image": "https://sihlandlo-schillo.github.io/images/images2/TempConvPic.png"
+         
+        },
+        {
+            "name": "Ecommerce Project",
+            "github": "https://github.com/Sihlandlo-schillo/JSproject.git",
+            "vercel": "https://j-sproject-ebon.vercel.app/",
+            "description": "Using JavaScript. We were instructed to do the a fully functional ecommerce Web",
+            "image": "https://sihlandlo-schillo.github.io/images/images2/JavaScriptProPic.png"
          
         }
     ],
