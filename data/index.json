@@ -47,23 +47,26 @@
             "description": "Short course",
             "Duration": "05 April 2024 - 20 Sept 2024",
             "Institution": "Life Choices",
+            "status": "Ongoing",
             "lecturer":[
                 {
                     "name":"Matthew Brown",
                     "contact": "0725047852",
-                    "email": "matthewbrown@lifechoices.co.za"
+                    "email":"matthewbrown@lifechoices.co.za"
                 }
             ]
         },
         {
             "description": "High School",
             "Duration": "15 Jan 2017 - 26 November 2019",
-            "Institution": "Pakamani SSS"
+            "Institution": "Pakamani SSS",
+            "status": "Completed"
         },
         {
             "description": "Junior School",
             "Duration": "Jan 2007 - December 2016",
-            "Institution": "Magopeni JSS"
+            "Institution": "Magopeni JSS",
+            "status": "Completed"
         }
     ],
     "skills":["HTML", "CSS","JavaScript","VueJs","Bootstrap"],
@@ -71,38 +74,38 @@
         {
             "name": "Matthew Brown",
             "position": "lecturer",
-            "text": "A very good student this one",
+            "text": "Sihlandlo has shown remarkable dedication and enthusiasm in his journey as a beginner web developer. His relentless pursuit of knowledge and eagerness to learn new skills are truly commendable. I have no doubt that with his persistence, he will continue to grow and excel in the field.",
             "image":""
         },
         {
             "name": "Gwiba Mabandla",
             "position": "Student",
             "text": "Sihlandlo is very bold and confident and shows it through his work and personality, he's not afraid to share his opinions and concerns in order to forge a solution to a problem.",
-            "image":""
+            "image":"https://c0dingforfun.github.io/portfolioimg/Images/Me/Me.png"
         },
         {
             "name": "Ntando Mabuto",
             "position": "Student",
             "text": "Sihlandlo is a very committed hard worker and an inspiring person, it is always a pleasure working with him.",
-            "image":""
+            "image":"https://ntandomabuto.github.io/images/siw.jpg"
         },
         {
             "name": "Yonela Mangele",
             "position": "Student",
-            "text": "Sihlando's commitment and dedication to his work is what inspires others to work harder. His radiant energy and constant smile is what makes it very comfortable to work with him.",
-            "image":""
+            "text": "Sihlandlo's commitment and dedication to his work is what inspires others to work harder. His radiant energy and constant smile is what makes it very comfortable to work with him.",
+            "image":"https://yonelamangele.github.io/Images/20240422_122539.jpg"
         },
         {
-            "name": "Tyra Parring",
+            "name": "Taahir Du Toit",
             "position": "Student",
-            "text": "I strongly recommend Sihlando for future roles for the reason that he is a talented, enthusiastic and dedicated individual. I know he would be an excellent addition to any organisation.",
-            "image":""
+            "text": "Sihlandlo is one my closest friends as his determination to get things done constantly inspires me. He approaches problems in a creative way and makes sure the people that surround him are on the same level of understanding as he his. It has been a pleasure to work with you and I'm sure you will go on to do great things.",
+            "image":"https://arachnidarchitect.github.io/2.images/container/mtdt.png"
         },
         {
             "name": "Siphokuhle Nyana",
             "position": "Student",
             "text": "I have had the pleasure of working alongside Sihlandlo for the past and current month we have worked together , and I can confidently say that he is a phenomenal team player. His dedication to his work, attention to detail, and positive attitude have consistently impressed me. He always goes above and beyond to ensure the success of our projects and is a true asset to our team. I am grateful for the opportunity to collaborate with him and look forward to continuing to do so in the future.",
-            "image":""
+            "image":"https://ntandomabuto.github.io/images/spho.png"
         }
     ],
         "contacts":
