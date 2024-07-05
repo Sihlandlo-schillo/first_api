@@ -80,10 +80,10 @@
     "skills":["HTML", "CSS","JavaScript","VueJs","Bootstrap"],
     "testimonials":[
         {
-            "name": "Matthew Brown",
-            "position": "lecturer",
-            "text": "Sihlandlo has shown remarkable dedication and enthusiasm in his journey as a beginner web developer. His relentless pursuit of knowledge and eagerness to learn new skills are truly commendable. I have no doubt that with his persistence, he will continue to grow and excel in the field.",
-            "image":""
+            "name": "Yonela Mangele",
+            "position": "Student",
+            "text": "Sihlandlo's commitment and dedication to his work is what inspires others to work harder. His radiant energy and constant smile is what makes it very comfortable to work with him.",
+            "image":"https://yonelamangele.github.io/Images/20240422_122539.jpg"
         },
         {
             "name": "Gwiba Mabandla",
@@ -98,16 +98,16 @@
             "image":"https://ntandomabuto.github.io/images/siw.jpg"
         },
         {
-            "name": "Yonela Mangele",
+            "name": "Tyra Parring",
             "position": "Student",
-            "text": "Sihlandlo's commitment and dedication to his work is what inspires others to work harder. His radiant energy and constant smile is what makes it very comfortable to work with him.",
-            "image":"https://yonelamangele.github.io/Images/20240422_122539.jpg"
+            "text": "Sihlandlo has shown remarkable dedication and enthusiasm in his journey as a beginner web developer. His relentless pursuit of knowledge and eagerness to learn new skills are truly commendable. I have no doubt that with his persistence, he will continue to grow and excel in the field.",
+            "image":"https://tyra-parring.github.io/host-/image/InShot_20240424_205858533.jpg"
         },
         {
             "name": "Taahir Du Toit",
             "position": "Student",
             "text": "Sihlandlo is one my closest friends as his determination to get things done constantly inspires me. He approaches problems in a creative way and makes sure the people that surround him are on the same level of understanding as he his. It has been a pleasure to work with you and I'm sure you will go on to do great things.",
-            "image":"https://arachnidarchitect.github.io/2.images/container/mtdt.png"
+            "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/proffesionalPic.jpg"
         },
         {
             "name": "Siphokuhle Nyana",
